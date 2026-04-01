@@ -1,6 +1,8 @@
 # Vaultar - Backup Seguro e Eficiente
 
-![Vaultar Banner](images/vaultar-banner.png)
+<p align="center">
+  <img src="images/vaultar-banner.png" alt="Descrição" width="400"/>
+</p>
 
 Vaultar e uma ferramenta de linha de comando (CLI) poderosa e intuitiva para realizacao de backups seguros. Desenvolvido em Python, ele foca em simplicidade, seguranca e performance, permitindo que voce proteja seus dados com compressao moderna e criptografia robusta.
 
