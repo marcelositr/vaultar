@@ -2,7 +2,7 @@
 name = "vaultar"
 version = "0.1.0"
 description = "Secure backup and restore CLI tool"
-authors = [{ name = "Marcelo Trindade", email = "marcelost@riseup.net" }]
+authors = [{ name = "Marcelo Trindade" }]
 dependencies = [
     "click>=8.0.0",
     "rich>=12.0.0",
