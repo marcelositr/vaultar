@@ -1,5 +1,7 @@
 # Vaultar - Backup Seguro e Eficiente
 
+[![Python package](https://github.com/marcelositr/vaultar/actions/workflows/python-package.yml/badge.svg)](https://github.com/marcelositr/vaultar/actions/workflows/python-package.yml)
+
 <p align="center">
   <img src="images/vaultar-banner.png" alt="Descrição" width="400"/>
 </p>
